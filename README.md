@@ -1,4 +1,4 @@
-Your name: Ethan Ly<br>
-Your student ID: 010599849<br>
-Your major: Computer Science<br>
-Your preferred email address: ethan.ly@sjsu.edu<br>
+Your name: Ethan Ly
+Your student ID: 010599849
+Your major: Computer Science
+Your preferred email address: ethan.ly@sjsu.edu
